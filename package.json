@@ -1,0 +1,23 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "team profile genereator",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index",
+    "watch": "nodemon index",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiona1nicdao/team_profile_generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquier":"^6.2.1"
+  },
+  "devDependencies": {
+    "jest":"^24.8.0"
+  }
+}
