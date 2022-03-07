@@ -1,2 +1,2 @@
 # team_profile_generator
-homework 10
+week 10
